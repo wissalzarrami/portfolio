@@ -2,9 +2,9 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-## Montreal AI Symposium Contribution
+## Montreal AI Symposium 2024 Contribution
 
-Project Accepted and Presented: Presented a research poster on advanced radar-based human detection and fall detection at the Montreal AI Symposium, showcasing my work on integrating radar technology for emergency response systems in eldercare.
+**Project Accepted and Presented**: Presented my research poster on advanced radar-based human detection and fall detection at the Montreal AI Symposium, showcasing my work on integrating radar technology for emergency response systems in eldercare.
 ![mais2024](/assets/img/Image.jpg)
 
 ## Education
