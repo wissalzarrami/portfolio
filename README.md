@@ -74,10 +74,23 @@ _Key Technologies & Skills: Vision Transformers (ViT), CNNs, Cityscapes Dataset,
 _Key Technologies & Skills: Hugging Face Transformers (GPT-2, BERT), Large Language Models (LLMs), Kubernetes, Transfer Learning, Model Optimization, Python, NLP, Cloud Deployment_
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.Sc., Computer Science (Research Master) | Polytechnique Montréal (_May 2022 - December 2023_)
 
+Specialization: Data Science and Computer Vision, conducted research at LITIV: Laboratoire d'Interprétation et de Traitement d'Images et Vidéo
+
+GPA: 3.70
+<br />
+- Diploma in Computer Science Engineering | National School of Computer Science, Tunisia (_September 2019 - July 2022_)
+
+Specialization: Data Science and Computer Vision
+
+Graduated at the top of the class
+<br />
+- Preparatory Engineering Institute | Institute Preparatory to Engineering Studies of el Manar, Tunisia (_September 2017 - June 2019_)
+
+Branch: Maths and Physics
+
+Ranked: 209/1485, graduated at the top of the class
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
