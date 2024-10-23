@@ -5,7 +5,7 @@
 ## Montreal AI Symposium Contribution
 
 Project Accepted and Presented: Presented a research poster on advanced radar-based human detection and fall detection at the Montreal AI Symposium, showcasing my work on integrating radar technology for emergency response systems in eldercare.
-![EEG Band Discovery](/assets/img/mais2024.jpeg)
+![mais2024](/assets/img/Image.jpg)
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
