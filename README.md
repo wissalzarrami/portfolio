@@ -6,6 +6,23 @@
 
 **Project Accepted and Presented**: Presented my research poster on advanced radar-based human detection and fall detection at the Montreal AI Symposium, showcasing my work on integrating radar technology for emergency response systems in eldercare.
 ![mais2024](/assets/img/Image.jpg)
+## Work & Research Experience
+**Computer vision Researcher in Radar Technology @ LITIV Polytechnique Montreal, Morphee+ Collaborative (_Mai 2022 - Decembre 2024_)**
+Advanced Human Detection and Noise Reduction for Autonomous Systems
+
+- Developed a first-of-its-kind real-time emergency response solution for eldercare, using raw radar data without preprocessing, resulting in a 40% faster emergency detection time compared to conventional systems.
+
+- Designed and implemented deep learning architectures combining Transformers and CNNs to directly analyze complex radar signals, achieving 95% accuracy in detecting human positions (angle and distance).
+
+- Utilized C++ for radar data acquisition, processing over 10,000 hours of radar data for precise identification of human activity and fall detection.
+
+- Developed noise detection and elimination techniques, improving signal clarity by 35% and enhancing activity detection reliability.
+
+- Integrated image data with radar-based detection, leading to a 30% improvement in identifying complex activities.
+
+- Demonstrated expertise in sensor fusion, crucial for autonomous driving applications like object detection, tracking, and anomaly detection.
+
+_Key Technologies & Skills: Radar Signal Processing, Noise Detection, Transformers, CNNs, C++, Python, Complex Data Analysis, Autonomous Driving, Sensor Fusion_
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
