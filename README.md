@@ -1,7 +1,21 @@
 # portfolio
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+%-----------TECHNICAL SKILLS AND INTERESTS-----------
+\section{\textbf{Technical Skills and Interests}}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     **Programming Languages:** Python, C++, SQL, Bash \\
+     **Libraries/Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Hugging Face Transformers, CLIP, CUDA \\
+     **Machine Learning Tools:** Model Evaluation, Performance Metrics Analysis, Multimodal Learning, Transfer Learning, Model Optimization (Quantization, Pruning), Parallel and Distributed Computing \\
+     **Data Processing and Visualization:** Pandas, NumPy, Matplotlib, Seaborn \\
+     **Autonomous Driving and Simulation:** Motion Planning, Traffic Modeling, Sensor Simulation, Object Detection, Tracking, Real-Time Data Processing \\
+     **ML Infrastructure for Autonomous Systems:** Docker, Kubernetes, Cloud-Based Data Workflows, CI/CD \\
+     **Areas of Interest:** Autonomous Driving, Robotics, Computer Vision, Large-Scale ML, Multimodal AI, Real-Time Systems \\
+     **Soft Skills:** Problem Solving, Collaboration, Adaptability, Effective Communication
+    }}
+\end{itemize}
+
 ## Montreal AI Symposium 2024 Contribution
 
 **Project Accepted and Presented**: Presented my research poster on advanced radar-based human detection and fall detection at the Montreal AI Symposium, showcasing my work on integrating radar technology for emergency response systems in eldercare.
